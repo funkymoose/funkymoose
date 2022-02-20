@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @funkymoose
+- 👋 Hi, I’m Somesh Patil
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning advanced Python
 - 💞️ I’m looking to collaborate on ML and AI projects
